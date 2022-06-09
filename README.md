@@ -1,6 +1,6 @@
 # dicoding_flutter
 
-This flutter project for dicoding test
+This flutter project for dicoding practice
 
 ## Getting Started
 
